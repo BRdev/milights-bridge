@@ -5,7 +5,7 @@ var config = {};
 // Set to 255.255.255.255 for automatic discovery
 // If discovery does not work, set to manual IP
 // Make sure that this IP is set as a static IP in your router settings
-config.bridge_ip = "192.168.1.1";
+config.bridge_ip = "192.168.178.249";
 
 // Version of your milights wifi bridge
 // Options: "v4" (old square boxes) or "v6" (iBox with integrated light)
